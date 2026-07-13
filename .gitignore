@@ -1,0 +1,14 @@
+# VS Code settings (editor-specific, not for others)
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# MySQL connection configs (never push credentials)
+*.cnf
+*.ini
+
+# Environment files
+.env
+.env.local
